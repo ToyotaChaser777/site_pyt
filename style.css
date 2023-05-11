@@ -1,8 +1,8 @@
 body {
-    font-family: Inter,  sans-serif; /* Семейство шрифтов */
-    font-size: 20px; /* Размер основного шрифта в <p></p>  */
-    background-color: #FFFFFF; /* Цвет фона веб-страницы */
-    color: #333333; /* Цвет основного текста */ 
+    font-family: Inter,  sans-serif; 
+    font-size: 20px; 
+    background-color: #FFFFFF; 
+    color: #333333; 
 }
 @keyframes color-change {
     0% {
@@ -19,8 +19,8 @@ body {
 }
 h2:hover {
     animation: color-change 2s infinite;
-    font-size: 20px; /* Размер шрифта в пунктах */
-    font-family: Inter, serif; /* Семейство шрифтов */
+    font-size: 20px; 
+    font-family: Inter, serif; 
 }
 .map {
     padding: 40px 0;
